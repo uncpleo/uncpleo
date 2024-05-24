@@ -13,7 +13,7 @@
 
 <hr>
 
-<h3 align='center'><img height="50" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBoZ2pqNzE0YnhqMWttMDJjOHE2MzVkc3hvYWExaTR4NnM0NXNqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dUrwf15oqr6Dds6g6U/giphy.gif"/> Acerca de mí 🌟 </h3>
+<h3 align='center'> Acerca de mí 🌟 </h3>
 
 <p align="center">
 📍 Vivo en Perú 📚 Actualmente estoy aprendiendo Google Cloud 🚀 Apasionado por aprender nuevas tecnologías como autodidacta 💡 Disfruto convirtiendo ideas en realidad 🤝 Abierto a colaborar en proyectos interesantes y desafiantes. Mis áreas de experiencia incluyen inteligencia empresarial, análisis de datos, desarrollo frontend y programación.
@@ -24,7 +24,7 @@
 <h3  align="center">📫 Contáctame en</h3>
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/river-leonardo-belito/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="www.linkedin.com/in/river-leonardo-belito-chahuayllo-bb678925b"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:riverleonardobelito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </p>
 
@@ -62,14 +62,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncpleo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
-## 🏆 Trofeos de GitHub 🌟
-
-<div align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ef51fccc5efb68049723e1983ed3fad0c0cfa817decf61d5949a2af6a4094b5d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6f726c696c75712673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/ef51fccc5efb68049723e1983ed3fad0c0cfa817decf61d5949a2af6a4094b5d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6f726c696c75712673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api?username=orliluq&amp;show_icons=true&amp;theme=tokyonight" style="max-width: 100%;"></a></div>
-
-<div align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dbf686df0b934cebe1cd136eee46425ffcb6463a540519514d8ceb25888bf04b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6f726c696c7571266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/dbf686df0b934cebe1cd136eee46425ffcb6463a540519514d8ceb25888bf04b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6f726c696c7571266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=orliluq&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;"></a></div>
-
-<div align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d9de3a737b799572e1b16a4f78131bb03ea331f98686f5c8135fef2af183d0d0/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d6f726c696c7571267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/d9de3a737b799572e1b16a4f78131bb03ea331f98686f5c8135fef2af183d0d0/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d6f726c696c7571267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-streak-stats.herokuapp.com?user=orliluq&amp;theme=tokyonight" style="max-width: 100%;"></a></div>
-
-<div align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ae77ffacba7bcc68120532fcd0f1dd48bd5e9c636e7cb4e59b4ba37cc5919584/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6f726c696c7571267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/ae77ffacba7bcc68120532fcd0f1dd48bd5e9c636e7cb4e59b4ba37cc5919584/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6f726c696c7571267468656d653d746f6b796f6e69676874" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uncpleo&amp;theme=tokyonight" style="max-width: 100%;"></a></div>
 
 <hr>

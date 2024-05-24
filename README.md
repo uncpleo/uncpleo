@@ -69,17 +69,3 @@
 </p>
 
 <hr>
-
-<div align="center">
-  <h2> 🤝 Mis contribuciones 🌟</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
-<p align="center">
-   <i> ✨ Cada línea de código es una oportunidad para aprender algo nuevo, no importa cuándo empieces ✨</i>
-   <br>
-   <i> 🌱 El mejor momento para comenzar es ahora 🌱</i>
-   <br>
-  <time>

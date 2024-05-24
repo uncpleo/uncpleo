@@ -1,6 +1,6 @@
 <h1 align='center'>¡Hola! 👋 Soy River Leonardo Belito<img src="https://media1.tenor.com/m/91-HrkX3W5gAAAAC/jake-adventure-time.gif" width="70"></h1>
 
-<h2 align='center'><b>Front-end and Back-end Developer | Data scientist</b><img src='https://media1.tenor.com/m/91-HrkX3W5gAAAAC/jake-adventure-time.gif' width='25'></h2>
+<h2 align='center'><b>Front-end and Back-end Developer | Data scientist</b></h2>
 
 <p align="center">
 <samp>Soy un apasionado de la programación. Actualmente estoy sumergiéndome en el mundo de HTML, CSS y JavaScript, mientras profundizo mis conocimientos en SQL, Power BI y Go. Me encanta la sensación de descubrir nuevas habilidades y conectar con otros para aprender juntos. ¡Siempre estoy listo para el próximo desafío! 💡</samp>
@@ -44,14 +44,6 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-
-<h3>💬🗣️ Redes sociales</h3>
-
-<p align="center"> 
-  <a href="https://discord.com/users/RiverLeonardoBelito" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-  <a href="https://github.com/RiverLeonardoBelito" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/river-leonardo-belito/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 <h3><img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='50'> Estadísticas de GitHub</h3>

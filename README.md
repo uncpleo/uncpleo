@@ -1,6 +1,6 @@
 <h1 align='center'>¡Hola! 👋 Soy River Leonardo Belito<img src="https://scontent-ams4-1.xx.fbcdn.net/v/t1.18169-9/27545359_694442647612792_1836088865402258124_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFMB5Zdv-b4AQEXm9inxS5fl677JfMK-biXrvsl8wr5uD_LbNSs-evON-WbxN_TBwOcOv56NtQWled1PQak52w9&_nc_ohc=33lN9WsvEcAQ7kNvgH9f9JS&_nc_ht=scontent-ams4-1.xx&oh=00_AYD75cHWFnO38np-yreIu3vr5AW-qB6uyGnHAcZDxs1NtQ&oe=6665AEA8" width="70"></h1>
 
-<h2 align='center'><b>Front-end and Back-end Developer | Data scientist</b></h2>
+<h2 align='center'><b>Front-end and Back-end Developer | Data Analyst</b></h2>
 
 <p align="center">
 <samp>Soy un apasionado de la programación. Actualmente estoy sumergiéndome en el mundo de HTML, CSS y JavaScript, mientras profundizo mis conocimientos en SQL, Power BI y Go. Me encanta la sensación de descubrir nuevas habilidades y conectar con otros para aprender juntos. ¡Siempre estoy listo para el próximo desafío! 💡</samp>
